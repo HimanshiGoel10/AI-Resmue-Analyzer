@@ -1,4 +1,4 @@
-# AI ATS RESUME ANALYZER
+# ResuMind AI
 
 ## Description
 
