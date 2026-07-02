@@ -53,7 +53,7 @@ Take the guesswork out of resume optimization and increase your confidence befor
 
 ## Live Demo
 
-`https://your-app-name.netlify.app`
+`https://ai-resmue-analyzer.vercel.app/`
 
 ---
 
